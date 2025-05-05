@@ -1,3 +1,3 @@
-let age = 5;
+let age: number = 5;
 
-console.log(age); 
+console.log(age);
